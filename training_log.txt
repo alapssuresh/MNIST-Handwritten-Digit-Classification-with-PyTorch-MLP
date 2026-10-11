@@ -1,0 +1,242 @@
+2026-04-15 15:49:25,826   INFO  Loaded 60000 images for training
+2026-04-15 15:52:05,011   INFO  Loaded 60000 images for training
+2026-04-15 15:54:18,789   INFO  Loaded 60000 images for training
+2026-04-15 15:54:47,657   INFO  Loaded 60000 images for training
+2026-04-15 15:54:47,657   INFO  MNISTClassifier(
+  (net): Sequential()
+)
+2026-04-15 16:19:55,554   INFO  Loaded 60000 images for training
+2026-04-15 16:19:55,554   INFO  MNISTClassifier(
+  (net): Sequential()
+)
+2026-04-15 16:20:19,571   INFO  Loaded 60000 images for training
+2026-04-15 16:24:51,255   INFO  Loaded 60000 images for training
+2026-04-15 16:24:51,256   INFO  MNISTClassifier(
+  (net): Sequential()
+)
+2026-04-15 16:26:32,782   INFO  Loaded 60000 images for training
+2026-04-15 16:26:32,802   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:26:34,008   INFO  -------------------- Start Training --------------------
+2026-04-15 16:26:36,809   INFO  Loaded 60000 images for training
+2026-04-15 16:26:36,830   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:26:37,835   INFO  -------------------- Start Training --------------------
+2026-04-15 16:27:30,615   INFO  Loaded 60000 images for training
+2026-04-15 16:27:30,638   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:27:31,632   INFO  -------------------- Start Training --------------------
+2026-04-15 16:27:34,427   INFO  Loaded 60000 images for training
+2026-04-15 16:27:34,450   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:27:35,455   INFO  -------------------- Start Training --------------------
+2026-04-15 16:29:19,057   INFO  Loaded 60000 images for training
+2026-04-15 16:29:19,077   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:29:20,068   INFO  -------------------- Start Training --------------------
+2026-04-15 16:29:22,868   INFO  Loaded 60000 images for training
+2026-04-15 16:29:22,890   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:29:23,889   INFO  -------------------- Start Training --------------------
+2026-04-15 16:30:12,493   INFO  Loaded 60000 images for training
+2026-04-15 16:30:12,514   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:30:13,511   INFO  -------------------- Start Training --------------------
+2026-04-15 16:30:16,282   INFO  Loaded 60000 images for training
+2026-04-15 16:30:16,302   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:30:17,300   INFO  -------------------- Start Training --------------------
+2026-04-15 16:35:39,736   INFO  Loaded 60000 images for training
+2026-04-15 16:35:39,758   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:35:40,745   INFO  -------------------- Start Training --------------------
+2026-04-15 16:38:17,608   INFO  Loaded 60000 images for training
+2026-04-15 16:38:17,630   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=128, bias=True)
+    (1): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=128, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:38:18,658   INFO  -------------------- Start Training --------------------
+2026-04-15 16:38:43,567   INFO  -------------------- Training Finishes --------------------
+2026-04-15 16:38:43,567   INFO  -------------------- Start Eval --------------------
+2026-04-15 16:38:43,813   INFO  Loaded 10000 images for testing
+2026-04-15 16:38:43,813   INFO  Eval checkpoit: ./output/checkpoint_epoch_10.pth
+2026-04-15 16:40:02,433   INFO  Loaded 60000 images for training
+2026-04-15 16:40:02,453   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:40:03,440   INFO  -------------------- Start Training --------------------
+2026-04-15 16:40:30,598   INFO  -------------------- Training Finishes --------------------
+2026-04-15 16:40:30,598   INFO  -------------------- Start Eval --------------------
+2026-04-15 16:40:30,714   INFO  Loaded 10000 images for testing
+2026-04-15 16:40:30,714   INFO  Eval checkpoit: ./output/checkpoint_epoch_10.pth
+2026-04-15 16:42:34,295   INFO  Loaded 60000 images for training
+2026-04-15 16:42:34,317   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:42:35,312   INFO  -------------------- Start Training --------------------
+2026-04-15 16:42:38,115   INFO  Loaded 60000 images for training
+2026-04-15 16:42:38,137   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:42:39,196   INFO  -------------------- Start Training --------------------
+2026-04-15 16:53:38,843   INFO  Loaded 60000 images for training
+2026-04-15 16:53:38,865   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:53:39,846   INFO  -------------------- Start Training --------------------
+2026-04-15 16:53:42,618   INFO  Loaded 60000 images for training
+2026-04-15 16:53:42,637   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:53:43,674   INFO  -------------------- Start Training --------------------
+2026-04-15 16:54:13,655   INFO  Loaded 60000 images for training
+2026-04-15 16:54:13,677   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:54:14,656   INFO  -------------------- Start Training --------------------
+2026-04-15 16:54:17,407   INFO  Loaded 60000 images for training
+2026-04-15 16:54:17,429   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:54:18,423   INFO  -------------------- Start Training --------------------
+2026-04-15 16:54:30,972   INFO  Loaded 60000 images for training
+2026-04-15 16:54:30,993   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:54:31,994   INFO  -------------------- Start Training --------------------
+2026-04-15 16:54:57,566   INFO  -------------------- Training Finishes --------------------
+2026-04-15 16:54:57,566   INFO  -------------------- Start Eval --------------------
+2026-04-15 16:54:57,684   INFO  Loaded 10000 images for testing
+2026-04-15 16:54:57,684   INFO  Eval checkpoit: ./output/checkpoint_epoch_10.pth
+2026-04-15 16:58:15,498   INFO  Loaded 60000 images for training
+2026-04-15 16:58:15,517   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:58:16,526   INFO  -------------------- Start Training --------------------
+2026-04-15 16:58:19,375   INFO  Loaded 60000 images for training
+2026-04-15 16:58:19,397   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=64, bias=True)
+    (1): BatchNorm1d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=64, out_features=10, bias=True)
+  )
+)
+2026-04-15 16:58:20,458   INFO  -------------------- Start Training --------------------
+2026-04-15 17:06:25,236   INFO  Loaded 60000 images for training
+2026-04-15 17:06:25,259   INFO  MNISTClassifier(
+  (net): Sequential(
+    (0): Linear(in_features=784, out_features=256, bias=True)
+    (1): BatchNorm1d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Linear(in_features=256, out_features=10, bias=True)
+  )
+)
+2026-04-15 17:06:26,256   INFO  -------------------- Start Training --------------------
+2026-04-15 17:06:57,181   INFO  -------------------- Training Finishes --------------------
+2026-04-15 17:06:57,181   INFO  -------------------- Start Eval --------------------
+2026-04-15 17:06:57,295   INFO  Loaded 10000 images for testing
+2026-04-15 17:06:57,296   INFO  Eval checkpoit: ./output/checkpoint_epoch_10.pth
